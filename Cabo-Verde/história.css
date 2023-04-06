@@ -1,0 +1,17 @@
+   body { text-align: center; background-color: rgba(69, 143, 212, 0.829);
+    
+   } 
+
+   .titulo-historia {
+        text-align:center
+    }
+    .paragrafo-historia {
+        text-align: justify;
+        margin: auto 50px;
+    }
+    .imagem-dois{
+       text-align: middle; 50px;
+    }
+    .imagem-um {
+        margin: auto 500px;
+    }
